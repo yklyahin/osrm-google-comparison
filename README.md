@@ -3,7 +3,7 @@ Tool for distance comparison for [OSRM](http://project-osrm.org) and [Google Dir
 ```
 -r report.csv - path to output report
 -d details.csv - path to report details
--c config.yml - path to config in YAMAL format
+-c config.yml - path to config in YAML format
 -b bounds.yml - path to bounds in YAML format
 ```
 
