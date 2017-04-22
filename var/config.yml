@@ -1,0 +1,6 @@
+osrm:
+  host: http://router.project-osrm.org
+google:
+  departure_time: now
+  traffic_model: optimistic
+  alternatives: true
